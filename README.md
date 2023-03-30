@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and python programming.
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on enged
-- 📫 How to reach me mahrezsean00@gmail.com.
+- 📫 How to reach me owitiseanmichael@gmail.com.
 
 
 <!---
